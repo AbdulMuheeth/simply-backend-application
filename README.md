@@ -1,5 +1,5 @@
 # simply-backend-application
-
+ A simple API which process authentication, update of existing user details, add address to a user detail (which are added in a new collection in the database) , and to a create a thumbnail.
 
 ## Setup
   
